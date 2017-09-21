@@ -16,4 +16,8 @@ bis inkl. Beweisstrategie 3.4 <br />
 3.2 Potenzen und Wurzeln (Bsp 3.4) <br />
 3.3 Terme; einige Beispiele wurden aus Zeitgründen ausgelassen. Diese finden sich auf ÜZ 2<br />
 3.4 Spezielle Notationen (fertig) <br />
-Üz2 bis 21.09.<br />
+Üz2 bis 21.09.<br /><br />
+4.Einheit, 21.09.2017<br />
+4 Logik
+5 Mengenlehre (bis inkl. Schreibweise 5.5) <br />
+Üz3 bis 22.09.2017<br /><br />
