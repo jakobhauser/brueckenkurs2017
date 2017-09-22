@@ -28,4 +28,6 @@ Beispiel 5.2 <br />
 6. Gleichungen<br />
 6.1 graphisches Lösen von Gleichungen (nur durchbesprochen, keine Beispiele)<br />
 6.2 Lineare Gleichungen<br />
-6.3 quadratische Gleichungen (bis inkl. Rechenregel 6.6)
+6.3 quadratische Gleichungen (bis inkl. Rechenregel 6.6)<br />
+Üz4 bis 25.09. <br />
+SCHÖNES WOCHENENDE!
