@@ -21,3 +21,11 @@ bis inkl. Beweisstrategie 3.4 <br />
 4 Logik<br />
 5 Mengenlehre (bis inkl. Schreibweise 5.5) <br />
 Üz3 bis 22.09.2017<br /><br />
+5.Einheit, 22.09.2017 <br />
+Beispiel 5.2 <br />
+5.1 Mengenrelationen<br />
+5.2 Mengenoperationen (komplett)<br />
+6. Gleichungen<br />
+6.1 graphisches Lösen von Gleichungen (nur durchbesprochen, keine Beispiele)<br />
+6.2 Lineare Gleichungen<br />
+6.3 quadratische Gleichungen (bis inkl. Rechenregel 6.6)
