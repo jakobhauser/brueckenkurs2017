@@ -30,4 +30,15 @@ Beispiel 5.2 <br />
 6.2 Lineare Gleichungen<br />
 6.3 quadratische Gleichungen (bis inkl. Rechenregel 6.6)<br />
 Üz4 bis 25.09. <br />
-SCHÖNES WOCHENENDE!
+SCHÖNES WOCHENENDE!<br /><br />
+
+6.Einheit, 25.09.2017<br />
+AKTUELLE VERION DES SKRIPTS VERFÜGBAR<br />
+ab Satz 6.7<br />
+6.4 Gleichungen höheren Grades (nur Teil 1 von Bsp. 6.6)<br />
+6.5 Bruchgleichungen (nur Teil 1&2 von Bsp 6.7)<br />
+6.6 Wurzelgleichungen (nur Teil 2 von Bsp 6.8)<br />
+6.7 Betragsgleichungen (nur Teil 2 von Bsp 6.9)<br />
+7. Ungleichungen (nur Teil 2 von Bsp 6.12; keine anderen Beispiele des Kapitels, da Theorie dieselbe ist wie bei Kapitel 6. Achtung nur bei der Multiplikation mit negativen Termen oder Zahlen)<br />
+Üz5 bis 26.09.<br /><br />
+
