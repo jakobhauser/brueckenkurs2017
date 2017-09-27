@@ -42,3 +42,14 @@ ab Satz 6.7<br />
 7. Ungleichungen (nur Teil 2 von Bsp 6.12; keine anderen Beispiele des Kapitels, da Theorie dieselbe ist wie bei Kapitel 6. Achtung nur bei der Multiplikation mit negativen Termen oder Zahlen)<br />
 Üz5 bis 26.09.<br /><br />
 
+7.Einheit, 26.09.2017<br />
+8. Funktionen bis inkl. Bsp 8.3 (Beispiel wird in der nächsten Einheit erneut durchbesprochen).<br />
+Üz6 bis 27.09.<br /><br />
+
+8.Einheit, 27.09.2017<br />
+Abschluss des Kapitel 8. <br />
+Üz7 bis 28.09.<br />
+!!!DOODLE Umfrage zur Gestaltung des zweiten Teils von Freitag unter nachfolgendem Link:<br />
+https://doodle.com/poll/zvivztme5nkbdhyk<br />
+
+
